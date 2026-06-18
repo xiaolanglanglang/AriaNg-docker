@@ -1,4 +1,4 @@
-FROM nginx:1.29.7-alpine3.23
+FROM nginx:1.31.2-alpine3.23
 
 WORKDIR /usr/share/nginx/html
 
